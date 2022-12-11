@@ -1,0 +1,2 @@
+# ImageMagickScripts
+ImageMagick sample scripts
